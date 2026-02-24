@@ -3,8 +3,8 @@ class AxonPro < Formula
 
   desc "Enterprise-grade graph-powered code intelligence engine"
   homepage "https://github.com/talhamsajid/axon-pro"
-  url "https://github.com/talhamsajid/axon-pro/archive/refs/tags/v0.3.1.tar.gz"
-  sha256 "836766b014aab958b2244f528f4115272088ebe94b89048d07c75b74e9702f3c"
+  url "https://github.com/talhamsajid/axon-pro/archive/refs/tags/v0.3.2.tar.gz"
+  sha256 "36d332fc7307a43d1fa5671a9f4e127a14bf8c8d4c700e69b230bf1948c86deb"
   license "MIT"
 
   depends_on "python@3.12"
